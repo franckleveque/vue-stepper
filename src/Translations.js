@@ -9,6 +9,11 @@ export default {
         back: 'Atrás',
         finish: 'Finalizar'
     },
+    fr: {
+        next: 'Suivant',
+        back: 'Précédant'
+        finish: 'Terminer'
+    },
     pt: {
         next: 'Próximo',
         back: 'Voltar',
